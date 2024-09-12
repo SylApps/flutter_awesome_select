@@ -1,3 +1,6 @@
+## [5.1.1]
+* Null safety issues are fixed on chip_theme.
+ 
 ## [5.1.0]
 * Null safety issues are fixed.
  
